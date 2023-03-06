@@ -1,10 +1,13 @@
 ﻿namespace Maze
 {
+    using Core.Contracts;
+    using Core;
+
     public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Game game = new Game();
+            IGame game = new Game();
             game.Start();
         }
     }
