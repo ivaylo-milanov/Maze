@@ -1,8 +1,8 @@
 ﻿namespace Maze.Core
 {
     using static Console;
-    using FieldNS;
-    using FieldNS.Contracts;
+    using Field;
+    using Field.Contracts;
     using Contracts;
     using EventListener;
 

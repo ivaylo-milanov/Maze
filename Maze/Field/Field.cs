@@ -1,4 +1,4 @@
-﻿namespace Maze.FieldNS
+﻿namespace Maze.Field
 {
     using static Console;
     using Contracts;

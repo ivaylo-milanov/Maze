@@ -1,4 +1,4 @@
-﻿namespace Maze.FieldNS.Contracts
+﻿namespace Maze.Field.Contracts
 {
 
     public interface IField
