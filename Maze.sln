@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{5990E7D6-9BF9-4A18-A9D5-64657A25B52F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maze", "Maze\Maze.csproj", "{5990E7D6-9BF9-4A18-A9D5-64657A25B52F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventListener", "F:\Programming\C#\My Projects\EventListener\EventListener\EventListener.csproj", "{F7012F05-8B81-4182-96B2-96EE85821F1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5990E7D6-9BF9-4A18-A9D5-64657A25B52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5990E7D6-9BF9-4A18-A9D5-64657A25B52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5990E7D6-9BF9-4A18-A9D5-64657A25B52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7012F05-8B81-4182-96B2-96EE85821F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7012F05-8B81-4182-96B2-96EE85821F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7012F05-8B81-4182-96B2-96EE85821F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7012F05-8B81-4182-96B2-96EE85821F1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

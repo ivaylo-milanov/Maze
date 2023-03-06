@@ -3,9 +3,8 @@
     using static Console;
     using FieldNS;
     using FieldNS.Contracts;
-    using ListenerNS.Contracts;
-    using ListenerNS;
     using Contracts;
+    using EventListener;
 
     public class Game : IGame
     {
